@@ -1,0 +1,1 @@
+Repositório dedicado aos notebooks e notas pessoais do curso [LangChain for LLM Application Development](https://learn.deeplearning.ai/langchain/lesson/1/introduction).
